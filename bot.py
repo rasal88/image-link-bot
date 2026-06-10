@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, ContextTypes, filters
 
-BOT_OWNER_ID = 123456789  # baad me apna Telegram User ID daalna
+BOT_OWNER_ID = 7241898482  # baad me apna Telegram User ID daalna
 
 pending_links = {}
 
